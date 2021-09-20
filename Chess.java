@@ -3,7 +3,6 @@
  * Write a description of class Chess here.
  *
  * @Mark Glinberg
- * @Check Functionality doesn't work yet.
  * @Most fun code is in ChessGUI
  */
 import java.util.*;
