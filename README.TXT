@@ -1,6 +1,5 @@
 PROJECT TITLE: Chess
 PURPOSE OF PROJECT: AP CS A Final
-DATE: 05/23/19
 HOW TO START THIS PROJECT: Download everything into one folder, compile everything, and run "Chess.java"
 AUTHORS: Mark Glinberg
 NOTES:
