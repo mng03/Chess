@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Spaces
+comment1.params=
+comment1.target=Spaces()
+comment10.params=
+comment10.target=java.util.List\ blackPossibleMoves()
+comment11.params=
+comment11.target=java.util.List\ whiteCurrentPossibleMoves()
+comment12.params=
+comment12.target=java.util.List\ blackCurrentPossibleMoves()
+comment2.params=p
+comment2.target=boolean\ isPositionNull(Position)
+comment3.params=p
+comment3.target=boolean\ isPositionValid(Position)
+comment4.params=p
+comment4.target=ChessPiece\ get(Position)
+comment5.params=p\ obj
+comment5.target=ChessPiece\ put(Position,\ ChessPiece)
+comment6.params=p
+comment6.target=java.lang.Object\ remove(Position)
+comment7.params=
+comment7.target=java.util.List\ reset()
+comment8.params=positionsNotToBeRemoved
+comment8.target=void\ removeAllPositions(java.util.List)
+comment9.params=
+comment9.target=java.util.List\ whitePossibleMoves()
+numComments=13
